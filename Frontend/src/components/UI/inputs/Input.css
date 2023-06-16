@@ -1,0 +1,21 @@
+.placeholder:focus + span {
+  top: -25%;
+  font-size: 11px;
+}
+
+.placeholder:not(:placeholder-shown) + span {
+  top: -25%;
+  font-size: 11px;
+}
+
+/* .placeholder:placeholder-shown:not(:focus) + span {
+  top: 50%;
+  font-size: 15px;
+  background-color: transparent;
+}
+
+.placeholder:not(:focus) + span {
+  top: 50%;
+  font-size: 15px;
+  background-color: transparent;
+} */

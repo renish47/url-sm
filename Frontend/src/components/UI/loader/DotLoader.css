@@ -1,0 +1,25 @@
+.dots {
+  width: 8px;
+  height: 8px;
+  background: #ffffff;
+  color: #ffffff;
+  border-radius: 50%;
+  box-shadow: 15px 0, -15px 0;
+  animation: dots-u8fzftmd 1s infinite linear alternate;
+}
+
+@keyframes dots-u8fzftmd {
+  0% {
+    box-shadow: 15px 0, -15px 0;
+  }
+
+  33% {
+    box-shadow: 15px 0, -15px 0 rgba(71, 75, 255, 0.13);
+    background: rgba(71, 75, 255, 0.13);
+  }
+
+  66% {
+    box-shadow: 15px 0 rgba(71, 75, 255, 0.13), -15px 0;
+    background: rgba(71, 75, 255, 0.13);
+  }
+}
