@@ -15,7 +15,7 @@ A responsive URL shortening website with user authentication, password encryptio
 
 ## Demo
 
-Visit the live website: [URL-SM](https://url-sm.netlify.app)
+Visit the live website: [https://url-sm.netlify.app](https://url-sm.netlify.app)
 
 ## Technologies Used
 
