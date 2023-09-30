@@ -95,7 +95,7 @@ Visit the live website: [URL-SM](https://url-sm.netlify.app)
    npm start
    ```
 
-   The server will be running on `http://localhost:3001`.
+   The server will be running on `http://localhost:8000`.
 
 2. Start the frontend development server:
 
@@ -103,8 +103,6 @@ Visit the live website: [URL-SM](https://url-sm.netlify.app)
    cd frontend
    npm run dev
    ```
-
-   The frontend development server will start on `http://localhost:8000`.
 
 3. Open a web browser and visit `http://localhost:5173` to access the URL shortening website.
 
