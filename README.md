@@ -50,7 +50,7 @@ To run the URL-SM project locally, follow these steps:
 
    ```shell
    git clone https://github.com/renish47/url-sm.git
-   cd url-sm/frontend
+   cd url-sm/Frontend
    ```
 
 2. Install dependencies:
@@ -59,7 +59,6 @@ To run the URL-SM project locally, follow these steps:
    npm install
    ```
 
-3. Create a `.env` file in the `client` directory and add your environment variables. You can use the `.env.example` file as a template.
 
 4. Start the development server:
 
@@ -75,7 +74,7 @@ To run the URL-SM project locally, follow these steps:
 
    ```shell
    git clone https://github.com/renish47/url-sm.git
-   cd url-sm/backend
+   cd url-sm/Backend
    ```
 
 2. Install dependencies:
@@ -84,7 +83,7 @@ To run the URL-SM project locally, follow these steps:
    npm install
    ```
 
-3. Create a `.env` file in the `backend` directory and add your environment variables. You can use the `.env.example` file as a template.
+3. Create a `.env` file in the `Backend` directory and add your environment variables. You can use the `.env.example` file as a template.
 
 4. Start the backend server:
 
@@ -95,31 +94,6 @@ To run the URL-SM project locally, follow these steps:
 5. The server should now be running locally on `http://localhost:8000`.
 
 
-## Contribution Guidelines
-
-Contributions to URL-SM are welcome! If you'd like to contribute, please follow these guidelines:
-
-1. Fork the repository.
-
-2. Create a new branch for your feature or bug fix:
-
-   ```shell
-   git checkout -b feature/your-feature-name
-   ```
-
-3. Make your changes and commit them:
-
-   ```shell
-   git commit -m "Add your commit message here"
-   ```
-
-4. Push your changes to your forked repository:
-
-   ```shell
-   git push origin feature/your-feature-name
-   ```
-
-5. Create a pull request to the main repository's `main` branch.
 
 ## Issues and Support
 
