@@ -92,7 +92,8 @@ To run the URL-SM project locally, follow these steps:
    npm start
    ```
 
-5. The server should now be running locally on `http://localhost:5000`.
+5. The server should now be running locally on `http://localhost:8000`.
+
 
 ## Contribution Guidelines
 
